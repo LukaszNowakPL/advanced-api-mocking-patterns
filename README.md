@@ -26,7 +26,7 @@ Test examples supporting each chapter of the talk are groupped on [/frontend/tes
 
 ## Presentation
 
-Presentation supporting the talk will be available after the conference.
+The repository contains pdf presentations displayed during meetings. Please note the language prefix used on file's name.
 
 ## Contact
 
