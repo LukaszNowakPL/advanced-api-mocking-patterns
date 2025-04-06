@@ -38,3 +38,4 @@ test-report.xml
 /test-results
 /playwright-report
 /playwright/.cache
+/functional/test-results
